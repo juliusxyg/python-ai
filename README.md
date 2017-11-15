@@ -25,3 +25,5 @@ Reference from http://www.missshi.cn/api/view/blog/59aa08fee519f50d04000170
 6.  practice_regularization 正则化的使用
 
 7.  practice_gradient_check 梯度检查
+
+8.  algorithm_optimization 算法优化
